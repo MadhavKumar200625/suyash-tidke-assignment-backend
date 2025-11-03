@@ -2,7 +2,7 @@
 
 This is the backend API for the **Stock Watchlist** web app — a simple, secure MERN-stack project that allows users to add and view their favorite stock symbols.
 
-It’s built using **Node.js + Express.js**, connected to **MongoDB Atlas**, and deployed on **Railway**.
+It’s built using **Node.js + Express.js**, connected to **MongoDB Atlas**, and deployed on **Vercel**.
 
 ---
 
