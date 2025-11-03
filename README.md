@@ -72,6 +72,6 @@ Create a `.env` file in your root directory:
 ```bash
 PORT=3001
 MONGODB_URI=<your_mongodb_connection_string>
-CORS_ORIGIN=http://localhost:3000
+CORS_ORIGIN=<frontend or approved cors url/ip>
 RATE_LIMIT_WINDOW_MS=60000
 RATE_LIMIT_MAX=100
